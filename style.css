@@ -72,7 +72,7 @@ width percentage on the fly, minus a fixed margin.
   max-width: 640px;
   width: 100%;
 }
-/*...and it does.  confusing! */
+/*...and it does.  confusing is as confusion does! */
 /* I guess it is better, for single pictures, to stick with 
 simply setting max-width: 100%.  */
 
